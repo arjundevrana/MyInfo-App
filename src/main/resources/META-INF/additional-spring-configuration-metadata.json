@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "email.host",
+    "type": "java.lang.String",
+    "description": "A description for 'email.host'"
+  },
+  {
+    "name": "email.port",
+    "type": "java.lang.String",
+    "description": "A description for 'email.port'"
+  },
+  {
+    "name": "email.password",
+    "type": "java.lang.String",
+    "description": "A description for 'email.password'"
+  },
+  {
+    "name": "email.appEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'email.appEmail'"
+  },
+  {
+    "name": "email.appEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'email.appEmail'"
+  },
+  {
+    "name": "email.appEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'email.appEmail'"
+  },
+  {
+    "name": "email.appEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'email.appEmail'"
+  },
+  {
+    "name": "email.appEmail",
+    "type": "java.lang.String",
+    "description": "A description for 'email.appEmail'"
+  }
+]}
